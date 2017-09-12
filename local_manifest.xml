@@ -1,6 +1,6 @@
 <manifest>
-<project path="device/tecno/Camon_C7" name="iykequame/android_device_tecno_Camon_C7" remote="github" revision="master"/>
+<project path="device/xiaomi/cappu" name="goayandi/android_device_xiaomi_cappu" remote="github" revision="master"/>
 
-<project path="vendor/tecno/Camon_C7" name="iykequame/android_vendor_tecno_Camon_C7" remote="github" revision="master"/>
+<project path="vendor/xiaomi/cappu" name="goayandi/android_vendor_xiaomi_cappu" remote="github" revision="master"/>
 
 </manifest>
